@@ -41,11 +41,11 @@ const Guide = () => {
               <p className="regular-16 text-gray-50">Destination</p>
               <p className="bold-20 text-green-50">48 min</p>
             </div>
-            <p className="bold-20 mt-2">Aguas calientes</p>
+            <p className="bold-20 mt-2">Kaziranga</p>
           </div>
           <div className="flex w-full flex-col">
             <p className="regular-16 text-gray-50">Start track</p>
-            <h4 className="bold-20 mt-2 whitespace-nowrap">Wonorejo Pasuruan</h4>
+            <h4 className="bold-20 mt-2 whitespace-nowrap">Nilgiri Hills</h4>
           </div>
         </div>
       </div>

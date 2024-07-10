@@ -13,7 +13,7 @@ const Button = ({ type, title, icon, varient }: ButtonProps) => {
     className={`flex px-8 py-4 gap-3 rounded-full  $ border ${varient}`} 
     type={type}
     >
-        {icon && <img src={icon} alt={title} width={22} height={22}/>}
+        {icon && <img src={icon} alt={title} width={20} height={22}/>}
         <label className="bold-16 whitespace-nowrap ">{title}</label>
     </button>
   )

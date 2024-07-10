@@ -44,15 +44,15 @@ const Camp = () => {
         <Campsite
           img="url(/img-1.png)"
           backgroundImage= " lg:rounded-r-5xl 2xl:rounded-5xl"
-          title="Putuk Truno Camp"
-          subtitle="prigen, pasuruan"
+          title="Golden Ridge Camp"
+          subtitle="Nilgiri hills, Ooty"
           peopleJoined="50+ Joined"
         />
         <Campsite
           img="url(/img-2.png)"
           backgroundImage= "rounded-l-5xl"
-          title="Putuk Truno Camp"
-          subtitle="prigen, pasuruan"
+          title="Golden Ridge Camp"
+          subtitle="Nilgiri hills, Ooty"
           peopleJoined="50+ Joined"
         />
       </div>
